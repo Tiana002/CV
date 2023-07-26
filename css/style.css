@@ -400,5 +400,11 @@ body {
     fill: #fb6d3a;
   }
   
+  p {
+    margin-top: 2px;
+    width: 400px;
+    font-size: 12px;
+    line-height: 1.2;
+  }
   /* the end */
   
