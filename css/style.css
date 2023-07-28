@@ -15,7 +15,7 @@ body {
   .main_content {
     background-color: #ffffff;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px 90px;
+    padding: 90px;
   }
   
   /* about styles */
@@ -59,7 +59,7 @@ body {
   /* projects styles */
   
   .projects {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   
   .title {
@@ -199,9 +199,9 @@ body {
     /* color: #a8a8a8; */
   }
   
-  .img-footer {
+  /* .img-footer {
     margin-bottom: 30px;
-  }
+  } */
   
   /* sidebar styles */
   
@@ -213,7 +213,7 @@ body {
   
   .photo {
     width: 370px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     /* border-radius: 50%; */
   }
   
@@ -224,15 +224,15 @@ body {
   }
   
   .contacts {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   
   .tech_skills {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   
   .soft_skills {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   
   .sidebar_title {
@@ -310,7 +310,7 @@ body {
   
   .hobbies {
     margin-left: 40px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   
   .hobbies_list {
