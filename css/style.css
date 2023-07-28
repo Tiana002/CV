@@ -21,7 +21,7 @@ body {
   /* about styles */
   
   .about {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
   }
   
   .about_position {
@@ -45,6 +45,7 @@ body {
     line-height: 55px;
     color: #000000;
     margin-bottom: 20px;
+    margin-top: 0;
   }
   
   .about_description {
@@ -169,7 +170,7 @@ body {
     font-size: 22px;
     line-height: 27px;
     color: #000000;
-    margin-bottom: 12px;
+    /* margin-bottom: 10px; */
   }
   
   .education_title {
@@ -178,7 +179,7 @@ body {
     font-size: 18px;
     line-height: 1.25;
     color: #fb6d3a;
-    margin-bottom: 11;
+    margin-bottom: 10;
   }
   
   .education_job_title {
@@ -187,7 +188,7 @@ body {
     font-size: 16px;
     line-height: 1.21;
     color: #000000;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
   }
   
   .education_period {
@@ -213,7 +214,7 @@ body {
   
   .photo {
     width: 370px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     /* border-radius: 50%; */
   }
   
@@ -224,15 +225,15 @@ body {
   }
   
   .contacts {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
   }
   
   .tech_skills {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
   }
   
   .soft_skills {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
   }
   
   .sidebar_title {
