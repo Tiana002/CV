@@ -30,7 +30,7 @@ body {
     font-size: 14px;
     line-height: 17px;
     color: #000000;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
   }
   
   .job_title_jun {
@@ -44,16 +44,16 @@ body {
     font-size: 45px;
     line-height: 55px;
     color: #000000;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
   }
   
   .about_description {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 24px;
     color: #595959;
-    width: 440px;
+    width: 600px;
   }
   
   /* projects styles */
@@ -79,9 +79,10 @@ body {
   .projects_item {
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #000000;
+    
   }
   
   .project,
@@ -149,7 +150,7 @@ body {
     color: #595959;
     padding: 0;
     margin-left: 15px;
-    margin-bottom: 45px;
+    /* margin-bottom: 45px; */
   }
   
   .work_list_item {
@@ -402,9 +403,10 @@ body {
   
   p {
     margin-top: 2px;
-    width: 400px;
-    font-size: 12px;
+    width: 600px;
+    font-size: 14px;
     line-height: 1.2;
   }
+  
   /* the end */
   
