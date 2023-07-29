@@ -42,7 +42,7 @@ body {
     font-style: normal;
     font-weight: 700;
     font-size: 45px;
-    line-height: 55px;
+    line-height: 1.22;
     color: #000000;
     margin-bottom: 20px;
     margin-top: 0;
@@ -51,8 +51,8 @@ body {
   .about_description {
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 16px;
+    line-height: 1.5;
     color: #595959;
     width: 600px;
   }
@@ -64,12 +64,12 @@ body {
   }
   
   .title {
-    font-style: normal;
-    font-weight: 700;
+    /* font-style: normal;
+    font-weight: 700; */
     font-size: 22px;
-    line-height: 27px;
-    color: #000000;
-    margin-bottom: 10px;
+    line-height: 1.23;
+    /* color: #000000;
+    margin-bottom: 10px; */
   }
   
   .projects_list {
@@ -78,25 +78,25 @@ body {
   }
   
   .projects_item {
-    font-style: normal;
+    /* font-style: normal; */
     font-weight: 700;
-    font-size: 16px;
+    /* font-size: 16px;
     line-height: 24px;
-    color: #000000;
+    color: #000000; */
     
   }
   
   .project,
   .project_link {
-    font-style: normal;
+    /* font-style: normal; */
     font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
+    /* font-size: 16px; */
+    /* line-height: 1.71; */
     color: #595959;
   }
   
   .project_link {
-    margin-left: 10px;
+    /* margin-left: 10px; */
   }
   
   .project_bracket {
@@ -110,85 +110,89 @@ body {
   /* work styles */
   
   .work_position {
-    font-style: normal;
+    /* font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 20px;
-    color: #000000;
+    line-height: 1.21;
+    color: #000000; */
     margin-bottom: 10px;
   }
   
   .organization {
-    font-style: normal;
+    /* font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 20px;
-    color: #fb6d3a;
+    line-height: 1.21;
+    color: #fb6d3a; */
+    color: #bf134a;
   }
   
   .period {
-    font-style: normal;
+    /* font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
+    font-size: 12px; */
+    line-height: 1.21;
     color: #a8a8a8;
     margin-bottom: 10px;
   }
   
   .line {
-    font-style: normal;
+    /* font-style: normal; */
     font-weight: 400;
-    font-size: 12px;
+    /* font-size: 12px;
     line-height: 15px;
-    color: #000000;
+    color: #000000; */
   }
   
   .work_list {
-    font-style: normal;
+    /* font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: #595959; */
     padding: 0;
     margin-left: 15px;
     /* margin-bottom: 45px; */
   }
   
   .work_list_item {
-    font-style: normal;
+    /* font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 16px; */
     line-height: 1.71;
     color: #595959;
   }
   
   /* education style */
   
-  .education {
+  /* .education {
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
     color: #000000;
-    /* margin-bottom: 10px; */
-  }
+    margin-bottom: 10px;
+  } */
   
   .education_title {
-    font-style: normal;
-    font-weight: 700;
+    /* font-style: normal;
+    font-weight: 700; */
     font-size: 18px;
     line-height: 1.25;
-    color: #fb6d3a;
-    margin-bottom: 10;
+    /* color: #fb6d3a; */
+    color: #bf134a;
+    margin-bottom: 0;
+    /* margin-top: 10px; */
   }
   
   .education_job_title {
-    font-style: normal;
+    /* font-style: normal;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 16px; */
     line-height: 1.21;
-    color: #000000;
-    margin-bottom: 10px;
+    /* color: #000000;
+    margin-bottom: 0; */
+    margin-top: 0;
   }
   
   .education_period {
@@ -212,11 +216,11 @@ body {
     width: 370px;
   }
   
-  .photo {
+  /* .photo {
     width: 370px;
     margin-bottom: 30px;
-    /* border-radius: 50%; */
-  }
+  
+  } */
   
   .contacts,
   .tech_skills,
@@ -238,10 +242,10 @@ body {
   
   .sidebar_title {
     color: #ffffff;
-    font-style: normal;
-    font-weight: 700;
+    /* font-style: normal;
+    font-weight: 700; */
     font-size: 22px;
-    line-height: 27px;
+    line-height: 1.23;
     margin-bottom: 10px;
   }
   
@@ -255,9 +259,9 @@ body {
   }
   
   .contact-link {
-    font-style: normal;
+    /* font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 16px; */
     line-height: 1.71;
     color: #b99dd0;
   }
@@ -275,14 +279,15 @@ body {
   }
   
   .tech_skills_item {
-    color: #fb6d3a;
+    /* color: #fb6d3a; */
+    color: #bf134a;
   }
   
   .tech_skills_text {
     color: #ffffff;
-    font-style: normal;
+    /* font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 16px; */
     line-height: 1.71;
   }
   
@@ -298,7 +303,8 @@ body {
   }
   
   .languages_item {
-    color: #fb6d3a;
+    /* color: #fb6d3a; */
+    color: #bf134a;
   }
   
   .languages_text {
@@ -321,7 +327,8 @@ body {
   }
   
   .hobbies_item {
-    color: #fb6d3a;
+    /* color: #fb6d3a; */
+    color: #bf134a;
   }
   
   .hobbies_text {
