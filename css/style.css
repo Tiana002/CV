@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: row-reverse;
     width: 1200px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
   }
   
   .main_content {
@@ -97,6 +97,7 @@ body {
   
   .project_link {
     /* margin-left: 10px; */
+    font-weight: 600;
   }
   
   .project_bracket {
