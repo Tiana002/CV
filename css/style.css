@@ -96,11 +96,6 @@ body {
     color: #000000;
   }
   
-  .project_link {
-    /* margin-left: 10px; */
-    font-weight: 600;
-  }
-  
   .project_bracket {
     /* font-style: normal; */
     font-weight: 700;
@@ -196,6 +191,7 @@ body {
     /* color: #000000;
     margin-bottom: 0; */
     margin-top: 0;
+    font-weight: 400;
   }
   
   .education_period {
